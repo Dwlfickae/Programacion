@@ -28,8 +28,8 @@ class Auto(Fabrica):
         super()._init_(llantas=4, color=color, precio=precio)
 
 # Crear objetos para cada clase
-moto = Moto(color="Rojo", precio=120000)
-auto = Auto(color="Azul", precio=95000)
+moto = Moto(color="Rojo", precio=175000)
+auto = Auto(color="Azul", precio=56000)
 
 # Mostrar atributos y aplicar descuento
 print("Atributos de la Moto:")
